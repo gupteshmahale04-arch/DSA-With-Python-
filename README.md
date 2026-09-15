@@ -6,9 +6,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->

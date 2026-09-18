@@ -36,4 +36,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

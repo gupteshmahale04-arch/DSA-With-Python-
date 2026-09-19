@@ -10,6 +10,7 @@
 | [0228-summary-ranges](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0495-teemo-attacking/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Sorting
@@ -39,4 +40,8 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->

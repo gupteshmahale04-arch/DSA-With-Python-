@@ -44,6 +44,7 @@
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0520-detect-capital/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

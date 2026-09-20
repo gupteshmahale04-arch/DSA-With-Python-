@@ -43,6 +43,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
+| [0520-detect-capital](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0520-detect-capital/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

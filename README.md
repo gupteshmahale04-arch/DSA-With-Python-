@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

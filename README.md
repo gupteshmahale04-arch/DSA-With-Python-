@@ -47,6 +47,7 @@
 | [0520-detect-capital](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0551-student-attendance-record-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

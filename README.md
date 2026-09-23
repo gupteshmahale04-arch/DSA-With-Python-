@@ -51,11 +51,13 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

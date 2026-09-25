@@ -29,11 +29,13 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
@@ -45,6 +47,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |

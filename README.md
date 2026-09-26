@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
@@ -21,6 +22,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -30,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 ## Sliding Window
@@ -48,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |

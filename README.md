@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0031-next-permutation/) | Medium |
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |

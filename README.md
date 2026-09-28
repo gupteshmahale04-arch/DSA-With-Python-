@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0031-next-permutation/) | Medium |
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
@@ -49,6 +50,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -93,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->

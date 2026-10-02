@@ -118,5 +118,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->

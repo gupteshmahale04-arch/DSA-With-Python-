@@ -75,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |

@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -120,4 +121,13 @@
 | [0007-reverse-integer](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0189-rotate-array/) | Medium |
+| [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 <!---LeetCode Topics End-->

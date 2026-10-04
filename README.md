@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -51,6 +52,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
+| [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## String
@@ -86,6 +87,7 @@
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -92,6 +92,7 @@
 | [0551-student-attendance-record-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
+| [0824-goat-latin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0824-goat-latin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

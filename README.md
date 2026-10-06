@@ -93,6 +93,7 @@
 | [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
 | [0824-goat-latin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0824-goat-latin/) | Easy |
+| [0830-positions-of-large-groups](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0830-positions-of-large-groups/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -55,6 +55,7 @@
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0771-jewels-and-stones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0771-jewels-and-stones/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0551-student-attendance-record-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
+| [0771-jewels-and-stones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0824-goat-latin](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0824-goat-latin/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0830-positions-of-large-groups/) | Easy |
 ## Simulation

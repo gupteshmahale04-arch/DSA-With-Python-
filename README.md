@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0189-rotate-array/) | Medium |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->

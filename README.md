@@ -42,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
@@ -92,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0482-license-key-formatting](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0520-detect-capital/) | Easy |
@@ -161,14 +164,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

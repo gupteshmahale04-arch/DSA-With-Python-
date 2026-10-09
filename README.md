@@ -18,6 +18,7 @@
 | [0228-summary-ranges](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0075-sort-colors/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@
 | [0049-group-anagrams](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
@@ -150,4 +153,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->

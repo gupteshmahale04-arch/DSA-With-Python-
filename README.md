@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -64,6 +66,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -148,6 +151,7 @@
 | [0009-palindrome-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -188,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0896-monotonic-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0896-monotonic-array/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@
 | [0525-contiguous-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0525-contiguous-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0771-jewels-and-stones/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

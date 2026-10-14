@@ -151,6 +151,7 @@
 | [0009-palindrome-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 ## Prime Factorization
@@ -196,4 +197,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

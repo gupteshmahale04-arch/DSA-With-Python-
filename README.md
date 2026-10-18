@@ -41,6 +41,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@
 | [0830-positions-of-large-groups](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0830-positions-of-large-groups/) | Easy |
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +235,5 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0342-power-of-four/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 <!---LeetCode Topics End-->

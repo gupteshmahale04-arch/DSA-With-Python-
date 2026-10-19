@@ -77,6 +77,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -124,6 +125,7 @@
 | [0830-positions-of-large-groups](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0830-positions-of-large-groups/) | Easy |
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |

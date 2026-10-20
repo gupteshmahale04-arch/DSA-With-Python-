@@ -44,6 +44,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

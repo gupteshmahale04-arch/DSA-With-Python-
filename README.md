@@ -43,6 +43,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -54,6 +55,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1436-destination-city/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -214,6 +217,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |

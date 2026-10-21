@@ -44,6 +44,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -88,6 +89,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -113,6 +115,7 @@
 | [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +259,8 @@
 | [0342-power-of-four](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0342-power-of-four/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0697-degree-of-an-array/) | Easy |
+| [0704-binary-search](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0896-monotonic-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0896-monotonic-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -38,6 +38,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |

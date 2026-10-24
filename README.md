@@ -43,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |

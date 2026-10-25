@@ -37,6 +37,7 @@
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1436-destination-city/) | Easy |
@@ -164,6 +165,7 @@
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0704-binary-search/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Greedy

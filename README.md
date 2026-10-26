@@ -54,6 +54,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
@@ -167,6 +168,7 @@
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |

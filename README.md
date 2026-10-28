@@ -33,6 +33,7 @@
 | [0704-binary-search](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0896-monotonic-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0896-monotonic-array/) | Easy |
+| [0941-valid-mountain-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |

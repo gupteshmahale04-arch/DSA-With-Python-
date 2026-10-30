@@ -57,6 +57,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -174,6 +175,7 @@
 | [0661-image-smoother](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0661-image-smoother/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |

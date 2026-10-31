@@ -63,6 +63,7 @@
 | [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

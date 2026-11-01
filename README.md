@@ -60,6 +60,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -214,6 +215,7 @@
 | [0509-fibonacci-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |

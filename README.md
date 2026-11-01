@@ -65,6 +65,7 @@
 | [2670-find-the-distinct-difference-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2942-find-words-containing-character/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@
 | [1436-destination-city](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1436-destination-city/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2942-find-words-containing-character/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

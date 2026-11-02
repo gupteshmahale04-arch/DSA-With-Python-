@@ -41,6 +41,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1390-four-divisors](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1436-destination-city/) | Easy |
@@ -76,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -139,6 +141,7 @@
 | [0541-reverse-string-ii](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0696-count-binary-substrings/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -202,6 +205,7 @@
 | [0704-binary-search](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gupteshmahale04-arch/DSA-With-Python-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Greedy
